@@ -6,16 +6,16 @@ Jika tidak ada, artinya data tersebut belum ada pada SIREKAP.
 
 ## Perolehan Suara
 
- * Paslon 01: **44**.
- * Paslon 02: **799**.
- * Paslon 03: **804**.
+ * Paslon 01: **81**.
+ * Paslon 02: **99**.
+ * Paslon 03: **40**.
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 44
-    "02" : 799
-    "03" : 804
+    "01" : 81
+    "02" : 99
+    "03" : 40
 ```
 ## Foto C Plano
 

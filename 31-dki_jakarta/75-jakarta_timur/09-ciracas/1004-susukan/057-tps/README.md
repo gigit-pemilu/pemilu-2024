@@ -6,14 +6,14 @@ Jika tidak ada, artinya data tersebut belum ada pada SIREKAP.
 
 ## Perolehan Suara
 
- * Paslon 01: **308**.
+ * Paslon 01: **108**.
  * Paslon 02: **87**.
  * Paslon 03: **28**.
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 308
+    "01" : 108
     "02" : 87
     "03" : 28
 ```
@@ -51,8 +51,8 @@ Jumlah pengguna hak pilih: **225**.
 
 ## JUMLAH SUARA SAH DAN TIDAK SAH
 
-JUMLAH SELURUH SUARA SAH: **227**.
+JUMLAH SELURUH SUARA SAH: **223**.
 
 JUMLAH SUARA TIDAK SAH: **2**.
 
-JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **205**.
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **225**.

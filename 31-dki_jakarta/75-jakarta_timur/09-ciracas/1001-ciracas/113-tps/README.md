@@ -19,8 +19,8 @@ pie showData
 ```
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/6622/pemilu/ppwp/31/75/09/10/01/3175091001113-20240214-221221--1d450216-0ded-4300-ad2c-27daac14f2ca.jpg
+https://sirekap-obj-formc.kpu.go.id/6622/pemilu/ppwp/31/75/09/10/01/3175091001113-20240219-150757--34f376d2-05ad-4798-9a48-2d18255099e2.jpg
 
 https://sirekap-obj-formc.kpu.go.id/6622/pemilu/ppwp/31/75/09/10/01/3175091001113-20240214-221631--a50597dd-34e0-40eb-95a3-48abb47ffe53.jpg
 
-https://sirekap-obj-formc.kpu.go.id/6622/pemilu/ppwp/31/75/09/10/01/3175091001113-20240214-221826--e6b7dc43-c909-4c97-88b7-f873f59f59c3.jpg
+https://sirekap-obj-formc.kpu.go.id/6622/pemilu/ppwp/31/75/09/10/01/3175091001113-20240219-153306--2de61f55-5ca2-40a6-b821-2732a320e91e.jpg

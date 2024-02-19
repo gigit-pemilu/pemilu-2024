@@ -6,14 +6,14 @@ Jika tidak ada, artinya data tersebut belum ada pada SIREKAP.
 
 ## Perolehan Suara
 
- * Paslon 01: **897**.
+ * Paslon 01: **97**.
  * Paslon 02: **106**.
  * Paslon 03: **27**.
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 897
+    "01" : 97
     "02" : 106
     "03" : 27
 ```

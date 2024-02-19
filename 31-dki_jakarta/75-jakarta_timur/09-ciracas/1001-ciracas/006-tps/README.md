@@ -4,9 +4,24 @@ Hasil perolehan suara paslon dapat dilihat pada file paslon-01.txt, paslon-02.tx
 
 Jika tidak ada, artinya data tersebut belum ada pada SIREKAP.
 
+## Perolehan Suara
+
+ * Paslon 01: **51**.
+ * Paslon 02: **88**.
+ * Paslon 03: **72**.
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "01" : 51
+    "02" : 88
+    "03" : 72
+```
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/712f/pemilu/ppwp/31/75/09/10/01/3175091001006-20240218-212739--fbaa132f-113c-4f50-9dea-57cfebd5f868.jpg
+
+https://sirekap-obj-formc.kpu.go.id/712f/pemilu/ppwp/31/75/09/10/01/3175091001006-20240218-212740--652ed30e-d219-4e12-940a-43ef1808ab4a.jpg
 
 https://sirekap-obj-formc.kpu.go.id/712f/pemilu/ppwp/31/75/09/10/01/3175091001006-20240218-212739--bce013c2-f541-447b-8def-8fdc9a2780b8.jpg
 
