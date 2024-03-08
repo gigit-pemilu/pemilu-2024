@@ -1,0 +1,6 @@
+*.sh
+*.json
+*.php
+*.log
+*.response.txt
+list_dir.txt
