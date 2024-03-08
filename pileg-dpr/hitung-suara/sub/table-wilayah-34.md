@@ -9,14 +9,14 @@ xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
     y-axis "Suara"
-    bar [122705, 130942, 272217, 164617, 68514, 6910, 13438, 126807, 1777, 2308, 2493, 96113, 1507, 25930, 42093, 4825, 23544, 24033]
+    bar [122708, 130942, 272217, 164617, 68514, 6910, 13438, 126807, 1777, 2308, 2493, 96113, 1507, 25930, 42093, 4825, 23544, 24033]
 ```
 
 ## Tabel
 
 | No. | Nama Partai                           | Suara   | Suara (raw) | Persentase |
 |:--- |:------------------------------------- | -------:| -----------:| ----------:|
-| 1   | Partai Kebangkitan Bangsa             | 122.705 | 122705      | 10,85      |
+| 1   | Partai Kebangkitan Bangsa             | 122.708 | 122708      | 10,85      |
 | 2   | Partai Gerakan Indonesia Raya         | 130.942 | 130942      | 11,58      |
 | 3   | Partai Demokrasi Indonesia Perjuangan | 272.217 | 272217      | 24,07      |
 | 4   | Partai Golongan Karya                 | 164.617 | 164617      | 14,56      |
