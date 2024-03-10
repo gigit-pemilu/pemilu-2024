@@ -87,7 +87,7 @@ xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
     y-axis "Suara"
-    bar [8881226, 10246734, 12625973, 11596564, 7271082, 451110, 1144312, 5775847, 160665, 561601, 222294, 5356649, 254962, 5713069, 2405586, 966181, 3089936, 323167]
+    bar [8881226, 10246734, 12625973, 11596564, 7271082, 451110, 1144312, 5775847, 160665, 561601, 222294, 5356649, 254962, 5713069, 2405586, 966181, 3089960, 323167]
 ```
 
 ## Tabel
@@ -110,7 +110,7 @@ xychart-beta
 | 14  | Partai Demokrat                       | 5.713.069  | [5713069][p-14] | 7,42       |
 | 15  | Partai Solidaritas Indonesia          | 2.405.586  | [2405586][p-15] | 3,12       |
 | 16  | PARTAI PERINDO                        | 966.181    | [966181][p-16]  | 1,25       |
-| 17  | Partai Persatuan Pembangunan          | 3.089.936  | [3089936][p-17] | 4,01       |
+| 17  | Partai Persatuan Pembangunan          | 3.089.960  | [3089960][p-17] | 4,01       |
 | 24  | Partai Ummat                          | 323.167    | [323167][p-24]  | 0,42       |
 
 
@@ -137,10 +137,10 @@ xychart-beta
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-10 12:07:12 |
-| Progress       | 543.156/823.378     |
+| Time Stamp     | 2024-03-10 13:07:13 |
+| Progress       | 543.157/823.378     |
 | Progress (%)   | 65,97               |
-| Progress (raw) | 543156              |
+| Progress (raw) | 543157              |
 
 
 ## Tabel Detail per Wilayah
