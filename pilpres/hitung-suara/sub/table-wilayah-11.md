@@ -8,7 +8,7 @@ Wilayah **ACEH**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 1885991
     bar [1885991, 570090, 57148]
 ```
 

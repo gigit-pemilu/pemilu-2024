@@ -8,7 +8,7 @@ Wilayah **NUSA TENGGARA BARAT**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 1784380
     bar [694882, 1784380, 207011]
 ```
 

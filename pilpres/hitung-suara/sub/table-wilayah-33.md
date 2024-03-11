@@ -8,7 +8,7 @@ Wilayah **JAWA TENGAH**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 10825724
     bar [2588113, 10825724, 6998079]
 ```
 

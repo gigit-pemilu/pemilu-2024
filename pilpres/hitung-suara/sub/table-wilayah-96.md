@@ -8,7 +8,7 @@ Wilayah **PAPUA BARAT DAYA**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 89480
     bar [20885, 89480, 35723]
 ```
 

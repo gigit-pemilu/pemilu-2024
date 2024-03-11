@@ -8,7 +8,7 @@ Wilayah **DI YOGYAKARTA**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 1000797
     bar [385680, 1000797, 585930]
 ```
 

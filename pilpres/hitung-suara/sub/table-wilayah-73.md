@@ -8,7 +8,7 @@ Wilayah **SULAWESI SELATAN**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 2425470
     bar [1623338, 2425470, 210196]
 ```
 

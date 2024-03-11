@@ -8,7 +8,7 @@ Wilayah **BALI**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 828108
     bar [50573, 828108, 686109]
 ```
 

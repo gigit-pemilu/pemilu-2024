@@ -8,7 +8,7 @@ Wilayah **KALIMANTAN BARAT**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 1583169
     bar [598791, 1583169, 431961]
 ```
 

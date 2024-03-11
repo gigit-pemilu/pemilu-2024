@@ -8,7 +8,7 @@ Wilayah **PAPUA PEGUNUNGAN**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 439
     bar [145, 439, 141]
 ```
 

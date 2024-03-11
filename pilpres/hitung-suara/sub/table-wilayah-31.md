@@ -8,7 +8,7 @@ Wilayah **DKI JAKARTA**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 1956503
     bar [1936408, 1956503, 824937]
 ```
 

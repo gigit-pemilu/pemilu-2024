@@ -8,7 +8,7 @@ Wilayah **BANTEN**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 3167607
     bar [1902047, 3167607, 560277]
 ```
 

@@ -8,7 +8,7 @@ Wilayah **JAWA TIMUR**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 14262809
     bar [3385414, 14262809, 3840728]
 ```
 

@@ -8,7 +8,7 @@ Wilayah **LAMPUNG**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 3244965
     bar [729032, 3244965, 705725]
 ```
 

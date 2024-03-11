@@ -8,7 +8,7 @@ Wilayah **MALUKU**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 388411
     bar [120346, 388411, 104881]
 ```
 

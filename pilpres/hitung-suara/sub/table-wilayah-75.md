@@ -8,7 +8,7 @@ Wilayah **GORONTALO**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 432164
     bar [192164, 432164, 35974]
 ```
 
