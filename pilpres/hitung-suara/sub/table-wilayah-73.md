@@ -8,25 +8,25 @@ Wilayah **SULAWESI SELATAN**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 2425470
-    bar [1623338, 2425470, 210196]
+    y-axis "Suara" 0 --> 2425217
+    bar [1623169, 2425217, 210184]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 1623338
-    "02" : 2425470
-    "03" : 210196
+    "01" : 1623169
+    "02" : 2425217
+    "03" : 210184
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara     | Suara (raw) | Persentase |
 |:--- |:-------------- | ---------:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 1.623.338 | 1623338     | 38,12      |
-| 2   | PRABOWO GIBRAN | 2.425.470 | 2425470     | 56,95      |
-| 3   | GANJAR MAHFUD  | 210.196   | 210196      | 4,94       |
+| 1   | ANIES MUHAIMIN | 1.623.169 | 1623169     | 38,12      |
+| 2   | PRABOWO GIBRAN | 2.425.217 | 2425217     | 56,95      |
+| 3   | GANJAR MAHFUD  | 210.184   | 210184      | 4,94       |
 
 
 ## Metadata
@@ -34,7 +34,7 @@ pie showData
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 79,27   |
+| Persentase      | 79,30   |
 | Status Progress | On      |
 
 
