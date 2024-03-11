@@ -8,7 +8,7 @@ Wilayah **KEPULAUAN BANGKA BELITUNG**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 106923
     bar [21862, 103508, 106923, 73541, 48071, 3399, 12612, 18676, 785, 4479, 1694, 7443, 12502, 9952, 7509, 4883, 42546, 1268]
 ```
 

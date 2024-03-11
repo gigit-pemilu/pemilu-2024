@@ -8,7 +8,7 @@ Wilayah **KALIMANTAN TENGAH**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 157708
     bar [59194, 95523, 157708, 108675, 67520, 3388, 28880, 15589, 1797, 6337, 2660, 65989, 2406, 91938, 14985, 11464, 10879, 1242]
 ```
 

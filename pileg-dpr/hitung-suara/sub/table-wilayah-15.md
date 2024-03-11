@@ -8,7 +8,7 @@ Wilayah **JAMBI**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 199763
     bar [127087, 138731, 185354, 199763, 103301, 6972, 34557, 58964, 3332, 7829, 4243, 102550, 3428, 117378, 37807, 16329, 37871, 5142]
 ```
 

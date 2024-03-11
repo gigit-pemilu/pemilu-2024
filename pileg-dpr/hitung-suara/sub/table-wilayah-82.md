@@ -8,7 +8,7 @@ Wilayah **MALUKU UTARA**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 69469
     bar [27299, 26480, 69469, 58415, 31315, 2706, 6409, 16293, 3277, 4151, 4162, 31477, 3308, 15419, 9245, 7285, 4860, 2238]
 ```
 

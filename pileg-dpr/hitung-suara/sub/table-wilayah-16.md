@@ -8,7 +8,7 @@ Wilayah **SUMATERA SELATAN**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 436776
     bar [244763, 389443, 236440, 436776, 436753, 15926, 25830, 122496, 12093, 28093, 12593, 134589, 12944, 223039, 78340, 23909, 28419, 9626]
 ```
 

@@ -86,7 +86,7 @@
 xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 12626481
     bar [8881543, 10247497, 12626481, 11596940, 7271507, 451132, 1144364, 5776423, 160697, 561635, 222308, 5356898, 254969, 5714569, 2405619, 966203, 3090053, 323171]
 ```
 

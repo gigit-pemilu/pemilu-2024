@@ -8,7 +8,7 @@ Wilayah **GORONTALO**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 181572
     bar [11083, 111852, 36661, 128177, 181572, 2082, 4598, 13606, 855, 4806, 1370, 11469, 1204, 10729, 2330, 4873, 53357, 882]
 ```
 

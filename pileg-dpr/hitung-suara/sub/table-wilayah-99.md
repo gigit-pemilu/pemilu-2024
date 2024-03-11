@@ -8,7 +8,7 @@ Wilayah **Luar Negeri**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 70584
     bar [28473, 70584, 67706, 35084, 10629, 4809, 3223, 37209, 502, 1567, 1613, 41865, 1226, 14246, 38910, 6376, 6005, 1622]
 ```
 

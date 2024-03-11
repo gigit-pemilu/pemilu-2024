@@ -8,7 +8,7 @@ Wilayah **KEPULAUAN RIAU**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 67979
     bar [37431, 50146, 37775, 67979, 42658, 2669, 5992, 28512, 609, 5075, 1184, 16885, 1412, 21844, 11663, 5568, 4175, 1998]
 ```
 

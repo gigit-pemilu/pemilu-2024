@@ -8,7 +8,7 @@ Wilayah **DKI JAKARTA**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 330068
     bar [110637, 174408, 272956, 171101, 117504, 19373, 14173, 330068, 3843, 6743, 3930, 127402, 4663, 96478, 155409, 39267, 52287, 13470]
 ```
 

@@ -8,7 +8,7 @@ Wilayah **DI YOGYAKARTA**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara"
+    y-axis "Suara" 0 --> 272371
     bar [122792, 131000, 272371, 164686, 68527, 6913, 13444, 126853, 1777, 2308, 2498, 96125, 1512, 25935, 42116, 4827, 23560, 24040]
 ```
 
