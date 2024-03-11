@@ -2,83 +2,83 @@
 
 ## Menu Wilayah
 
-[ACEH](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/11-aceh)
+[ACEH](https://github.com/gigit-pemilu/pemilu-2024-11-aceh/tree/main/pileg-dpr/hitung-suara/sub/11-aceh)
  | 
-[BALI](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/51-bali)
+[BALI](https://github.com/gigit-pemilu/pemilu-2024-51-bali/tree/main/pileg-dpr/hitung-suara/sub/51-bali)
  | 
-[BANTEN](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/36-banten)
+[BANTEN](https://github.com/gigit-pemilu/pemilu-2024-36-banten/tree/main/pileg-dpr/hitung-suara/sub/36-banten)
  | 
-[BENGKULU](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/17-bengkulu)
+[BENGKULU](https://github.com/gigit-pemilu/pemilu-2024-17-bengkulu/tree/main/pileg-dpr/hitung-suara/sub/17-bengkulu)
  | 
-[DI YOGYAKARTA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/34-di-yogyakarta)
+[DI YOGYAKARTA](https://github.com/gigit-pemilu/pemilu-2024-34-di-yogyakarta/tree/main/pileg-dpr/hitung-suara/sub/34-di-yogyakarta)
  | 
-[DKI JAKARTA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/31-dki-jakarta)
+[DKI JAKARTA](https://github.com/gigit-pemilu/pemilu-2024-31-dki-jakarta/tree/main/pileg-dpr/hitung-suara/sub/31-dki-jakarta)
  | 
-[GORONTALO](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/75-gorontalo)
+[GORONTALO](https://github.com/gigit-pemilu/pemilu-2024-75-gorontalo/tree/main/pileg-dpr/hitung-suara/sub/75-gorontalo)
  | 
-[JAMBI](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/15-jambi)
+[JAMBI](https://github.com/gigit-pemilu/pemilu-2024-15-jambi/tree/main/pileg-dpr/hitung-suara/sub/15-jambi)
  | 
-[JAWA BARAT](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/32-jawa-barat)
+[JAWA BARAT](https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/tree/main/pileg-dpr/hitung-suara/sub/32-jawa-barat)
  | 
-[JAWA TENGAH](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah)
+[JAWA TENGAH](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah)
  | 
-[JAWA TIMUR](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur)
+[JAWA TIMUR](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur)
  | 
-[KALIMANTAN BARAT](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/61-kalimantan-barat)
+[KALIMANTAN BARAT](https://github.com/gigit-pemilu/pemilu-2024-61-kalimantan-barat/tree/main/pileg-dpr/hitung-suara/sub/61-kalimantan-barat)
  | 
-[KALIMANTAN SELATAN](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/63-kalimantan-selatan)
+[KALIMANTAN SELATAN](https://github.com/gigit-pemilu/pemilu-2024-63-kalimantan-selatan/tree/main/pileg-dpr/hitung-suara/sub/63-kalimantan-selatan)
  | 
-[KALIMANTAN TENGAH](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/62-kalimantan-tengah)
+[KALIMANTAN TENGAH](https://github.com/gigit-pemilu/pemilu-2024-62-kalimantan-tengah/tree/main/pileg-dpr/hitung-suara/sub/62-kalimantan-tengah)
  | 
-[KALIMANTAN TIMUR](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/64-kalimantan-timur)
+[KALIMANTAN TIMUR](https://github.com/gigit-pemilu/pemilu-2024-64-kalimantan-timur/tree/main/pileg-dpr/hitung-suara/sub/64-kalimantan-timur)
  | 
-[KALIMANTAN UTARA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/65-kalimantan-utara)
+[KALIMANTAN UTARA](https://github.com/gigit-pemilu/pemilu-2024-65-kalimantan-utara/tree/main/pileg-dpr/hitung-suara/sub/65-kalimantan-utara)
  | 
-[KEPULAUAN BANGKA BELITUNG](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/19-kepulauan-bangka-belitung)
+[KEPULAUAN BANGKA BELITUNG](https://github.com/gigit-pemilu/pemilu-2024-19-kepulauan-bangka-belitung/tree/main/pileg-dpr/hitung-suara/sub/19-kepulauan-bangka-belitung)
  | 
-[KEPULAUAN RIAU](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/21-kepulauan-riau)
+[KEPULAUAN RIAU](https://github.com/gigit-pemilu/pemilu-2024-21-kepulauan-riau/tree/main/pileg-dpr/hitung-suara/sub/21-kepulauan-riau)
  | 
-[LAMPUNG](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/18-lampung)
+[LAMPUNG](https://github.com/gigit-pemilu/pemilu-2024-18-lampung/tree/main/pileg-dpr/hitung-suara/sub/18-lampung)
  | 
-[Luar Negeri](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/99-luar-negeri)
+[Luar Negeri](https://github.com/gigit-pemilu/pemilu-2024-99-luar-negeri/tree/main/pileg-dpr/hitung-suara/sub/99-luar-negeri)
  | 
-[MALUKU](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/81-maluku)
+[MALUKU](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pileg-dpr/hitung-suara/sub/81-maluku)
  | 
-[MALUKU UTARA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/82-maluku-utara)
+[MALUKU UTARA](https://github.com/gigit-pemilu/pemilu-2024-82-maluku-utara/tree/main/pileg-dpr/hitung-suara/sub/82-maluku-utara)
  | 
-[NUSA TENGGARA BARAT](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/52-nusa-tenggara-barat)
+[NUSA TENGGARA BARAT](https://github.com/gigit-pemilu/pemilu-2024-52-nusa-tenggara-barat/tree/main/pileg-dpr/hitung-suara/sub/52-nusa-tenggara-barat)
  | 
-[NUSA TENGGARA TIMUR](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur)
+[NUSA TENGGARA TIMUR](https://github.com/gigit-pemilu/pemilu-2024-53-nusa-tenggara-timur/tree/main/pileg-dpr/hitung-suara/sub/53-nusa-tenggara-timur)
  | 
-[PAPUA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/91-papua)
+[PAPUA](https://github.com/gigit-pemilu/pemilu-2024-91-papua/tree/main/pileg-dpr/hitung-suara/sub/91-papua)
  | 
-[PAPUA BARAT](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/92-papua-barat)
+[PAPUA BARAT](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pileg-dpr/hitung-suara/sub/92-papua-barat)
  | 
-[PAPUA BARAT DAYA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/96-papua-barat-daya)
+[PAPUA BARAT DAYA](https://github.com/gigit-pemilu/pemilu-2024-96-papua-barat-daya/tree/main/pileg-dpr/hitung-suara/sub/96-papua-barat-daya)
  | 
-[PAPUA PEGUNUNGAN](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/95-papua-pegunungan)
+[PAPUA PEGUNUNGAN](https://github.com/gigit-pemilu/pemilu-2024-95-papua-pegunungan/tree/main/pileg-dpr/hitung-suara/sub/95-papua-pegunungan)
  | 
-[PAPUA SELATAN](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/93-papua-selatan)
+[PAPUA SELATAN](https://github.com/gigit-pemilu/pemilu-2024-93-papua-selatan/tree/main/pileg-dpr/hitung-suara/sub/93-papua-selatan)
  | 
-[PAPUA TENGAH](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/94-papua-tengah)
+[PAPUA TENGAH](https://github.com/gigit-pemilu/pemilu-2024-94-papua-tengah/tree/main/pileg-dpr/hitung-suara/sub/94-papua-tengah)
  | 
-[RIAU](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/14-riau)
+[RIAU](https://github.com/gigit-pemilu/pemilu-2024-14-riau/tree/main/pileg-dpr/hitung-suara/sub/14-riau)
  | 
-[SULAWESI BARAT](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/76-sulawesi-barat)
+[SULAWESI BARAT](https://github.com/gigit-pemilu/pemilu-2024-76-sulawesi-barat/tree/main/pileg-dpr/hitung-suara/sub/76-sulawesi-barat)
  | 
-[SULAWESI SELATAN](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/73-sulawesi-selatan)
+[SULAWESI SELATAN](https://github.com/gigit-pemilu/pemilu-2024-73-sulawesi-selatan/tree/main/pileg-dpr/hitung-suara/sub/73-sulawesi-selatan)
  | 
-[SULAWESI TENGAH](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/72-sulawesi-tengah)
+[SULAWESI TENGAH](https://github.com/gigit-pemilu/pemilu-2024-72-sulawesi-tengah/tree/main/pileg-dpr/hitung-suara/sub/72-sulawesi-tengah)
  | 
-[SULAWESI TENGGARA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/74-sulawesi-tenggara)
+[SULAWESI TENGGARA](https://github.com/gigit-pemilu/pemilu-2024-74-sulawesi-tenggara/tree/main/pileg-dpr/hitung-suara/sub/74-sulawesi-tenggara)
  | 
-[SULAWESI UTARA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/71-sulawesi-utara)
+[SULAWESI UTARA](https://github.com/gigit-pemilu/pemilu-2024-71-sulawesi-utara/tree/main/pileg-dpr/hitung-suara/sub/71-sulawesi-utara)
  | 
-[SUMATERA BARAT](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/13-sumatera-barat)
+[SUMATERA BARAT](https://github.com/gigit-pemilu/pemilu-2024-13-sumatera-barat/tree/main/pileg-dpr/hitung-suara/sub/13-sumatera-barat)
  | 
-[SUMATERA SELATAN](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/16-sumatera-selatan)
+[SUMATERA SELATAN](https://github.com/gigit-pemilu/pemilu-2024-16-sumatera-selatan/tree/main/pileg-dpr/hitung-suara/sub/16-sumatera-selatan)
  | 
-[SUMATERA UTARA](https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara/sub/12-sumatera-utara)
+[SUMATERA UTARA](https://github.com/gigit-pemilu/pemilu-2024-12-sumatera-utara/tree/main/pileg-dpr/hitung-suara/sub/12-sumatera-utara)
 
 ## Grafik
 
@@ -87,31 +87,31 @@ xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
     y-axis "Suara"
-    bar [8881442, 10247372, 12626348, 11596864, 7271392, 451129, 1144348, 5776236, 160671, 561632, 222307, 5356824, 254969, 5714189, 2405611, 966200, 3090032, 323170]
+    bar [8881543, 10247497, 12626481, 11596940, 7271507, 451132, 1144364, 5776423, 160697, 561635, 222308, 5356898, 254969, 5714569, 2405619, 966203, 3090053, 323171]
 ```
 
 ## Tabel
 
 | No. | Nama Partai                           | Suara      | Suara (raw)     | Persentase |
 |:--- |:------------------------------------- | ----------:| ---------------:| ----------:|
-| 1   | Partai Kebangkitan Bangsa             | 8.881.442  | [8881442][p-1]  | 11,53      |
-| 2   | Partai Gerakan Indonesia Raya         | 10.247.372 | [10247372][p-2] | 13,30      |
-| 3   | Partai Demokrasi Indonesia Perjuangan | 12.626.348 | [12626348][p-3] | 16,39      |
-| 4   | Partai Golongan Karya                 | 11.596.864 | [11596864][p-4] | 15,05      |
-| 5   | Partai NasDem                         | 7.271.392  | [7271392][p-5]  | 9,44       |
-| 6   | Partai Buruh                          | 451.129    | [451129][p-6]   | 0,59       |
-| 7   | Partai Gelombang Rakyat Indonesia     | 1.144.348  | [1144348][p-7]  | 1,49       |
-| 8   | Partai Keadilan Sejahtera             | 5.776.236  | [5776236][p-8]  | 7,50       |
-| 9   | Partai Kebangkitan Nusantara          | 160.671    | [160671][p-9]   | 0,21       |
-| 10  | Partai Hati Nurani Rakyat             | 561.632    | [561632][p-10]  | 0,73       |
-| 11  | Partai Garda Republik Indonesia       | 222.307    | [222307][p-11]  | 0,29       |
-| 12  | Partai Amanat Nasional                | 5.356.824  | [5356824][p-12] | 6,95       |
+| 1   | Partai Kebangkitan Bangsa             | 8.881.543  | [8881543][p-1]  | 11,53      |
+| 2   | Partai Gerakan Indonesia Raya         | 10.247.497 | [10247497][p-2] | 13,30      |
+| 3   | Partai Demokrasi Indonesia Perjuangan | 12.626.481 | [12626481][p-3] | 16,39      |
+| 4   | Partai Golongan Karya                 | 11.596.940 | [11596940][p-4] | 15,05      |
+| 5   | Partai NasDem                         | 7.271.507  | [7271507][p-5]  | 9,44       |
+| 6   | Partai Buruh                          | 451.132    | [451132][p-6]   | 0,59       |
+| 7   | Partai Gelombang Rakyat Indonesia     | 1.144.364  | [1144364][p-7]  | 1,49       |
+| 8   | Partai Keadilan Sejahtera             | 5.776.423  | [5776423][p-8]  | 7,50       |
+| 9   | Partai Kebangkitan Nusantara          | 160.697    | [160697][p-9]   | 0,21       |
+| 10  | Partai Hati Nurani Rakyat             | 561.635    | [561635][p-10]  | 0,73       |
+| 11  | Partai Garda Republik Indonesia       | 222.308    | [222308][p-11]  | 0,29       |
+| 12  | Partai Amanat Nasional                | 5.356.898  | [5356898][p-12] | 6,95       |
 | 13  | Partai Bulan Bintang                  | 254.969    | [254969][p-13]  | 0,33       |
-| 14  | Partai Demokrat                       | 5.714.189  | [5714189][p-14] | 7,42       |
-| 15  | Partai Solidaritas Indonesia          | 2.405.611  | [2405611][p-15] | 3,12       |
-| 16  | PARTAI PERINDO                        | 966.200    | [966200][p-16]  | 1,25       |
-| 17  | Partai Persatuan Pembangunan          | 3.090.032  | [3090032][p-17] | 4,01       |
-| 24  | Partai Ummat                          | 323.170    | [323170][p-24]  | 0,42       |
+| 14  | Partai Demokrat                       | 5.714.569  | [5714569][p-14] | 7,42       |
+| 15  | Partai Solidaritas Indonesia          | 2.405.619  | [2405619][p-15] | 3,12       |
+| 16  | PARTAI PERINDO                        | 966.203    | [966203][p-16]  | 1,25       |
+| 17  | Partai Persatuan Pembangunan          | 3.090.053  | [3090053][p-17] | 4,01       |
+| 24  | Partai Ummat                          | 323.171    | [323171][p-24]  | 0,42       |
 
 
 [p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pileg-dpr/hitung-suara/sub/partai-1.txt
@@ -137,10 +137,10 @@ xychart-beta
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-11 08:07:28 |
-| Progress       | 543.179/823.378     |
+| Time Stamp     | 2024-03-11 10:07:15 |
+| Progress       | 543.185/823.378     |
 | Progress (%)   | 65,97               |
-| Progress (raw) | 543179              |
+| Progress (raw) | 543185              |
 
 
 ## Tabel Detail per Wilayah
