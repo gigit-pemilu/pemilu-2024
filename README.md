@@ -14,3 +14,5 @@ Project Utama: https://github.com/gigit-pemilu/pemilu-2024
 
 Langsung ke DPR Hitung: https://github.com/gigit-pemilu/pemilu-2024/tree/main/pileg-dpr/hitung-suara
 
+Langsung ke Pilpres Hitung: https://github.com/gigit-pemilu/pemilu-2024/tree/main/pilpres/hitung-suara
+
