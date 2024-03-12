@@ -133,6 +133,7 @@ xychart-beta
 [p-17]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pileg-dpr/hitung-suara/sub/partai-17.txt
 [p-24]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pileg-dpr/hitung-suara/sub/partai-24.txt
 
+
 ## Metadata
 
 | Key            | Value               |
