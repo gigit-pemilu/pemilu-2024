@@ -138,10 +138,10 @@ xychart-beta
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-13 17:37:19 |
-| Progress       | 543.467/823.378     |
-| Progress (%)   | 66,00               |
-| Progress (raw) | 543467              |
+| Time Stamp     | 2024-03-13 18:37:15 |
+| Progress       | 543.472/823.378     |
+| Progress (%)   | 66,01               |
+| Progress (raw) | 543472              |
 
 
 ## Tabel Detail per Wilayah
