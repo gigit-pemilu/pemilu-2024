@@ -9,7 +9,7 @@ xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
     y-axis "Suara" 0 --> 114829
-    bar [42045, 64451, 113200, 72042, 114829, 2301, 8999, 17634, 1126, 5000, 1899, 82759, 1472, 73783, 4540, 12469, 10348, 736]
+    bar [42045, 64451, 113200, 72042, 114829, 2299, 8999, 17634, 1126, 5000, 1899, 82759, 1472, 73783, 4540, 12469, 10348, 736]
 ```
 
 ## Tabel
@@ -21,7 +21,7 @@ xychart-beta
 | 3   | Partai Demokrasi Indonesia Perjuangan | 113.200 | 113200      | 17,98      |
 | 4   | Partai Golongan Karya                 | 72.042  | 72042       | 11,44      |
 | 5   | Partai NasDem                         | 114.829 | 114829      | 18,24      |
-| 6   | Partai Buruh                          | 2.301   | 2301        | 0,37       |
+| 6   | Partai Buruh                          | 2.299   | 2299        | 0,37       |
 | 7   | Partai Gelombang Rakyat Indonesia     | 8.999   | 8999        | 1,43       |
 | 8   | Partai Keadilan Sejahtera             | 17.634  | 17634       | 2,80       |
 | 9   | Partai Kebangkitan Nusantara          | 1.126   | 1126        | 0,18       |
