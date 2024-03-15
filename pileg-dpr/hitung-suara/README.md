@@ -86,32 +86,32 @@
 xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara" 0 --> 12634120
-    bar [8887433, 10260241, 12634120, 11606831, 7277317, 451735, 1145128, 5781199, 160848, 562277, 222565, 5361221, 255171, 5719341, 2406729, 968134, 3092522, 323419]
+    y-axis "Suara" 0 --> 12634836
+    bar [8888084, 10260824, 12634836, 11607359, 7277886, 451746, 1145214, 5781439, 160853, 562297, 222579, 5361527, 255178, 5719517, 2406783, 968189, 3092812, 323429]
 ```
 
 ## Tabel
 
 | No. | Nama Partai                           | Suara      | Suara (raw)     | Persentase |
 |:--- |:------------------------------------- | ----------:| ---------------:| ----------:|
-| 1   | Partai Kebangkitan Bangsa             | 8.887.433  | [8887433][p-1]  | 11,52      |
-| 2   | Partai Gerakan Indonesia Raya         | 10.260.241 | [10260241][p-2] | 13,30      |
-| 3   | Partai Demokrasi Indonesia Perjuangan | 12.634.120 | [12634120][p-3] | 16,38      |
-| 4   | Partai Golongan Karya                 | 11.606.831 | [11606831][p-4] | 15,05      |
-| 5   | Partai NasDem                         | 7.277.317  | [7277317][p-5]  | 9,44       |
-| 6   | Partai Buruh                          | 451.735    | [451735][p-6]   | 0,59       |
-| 7   | Partai Gelombang Rakyat Indonesia     | 1.145.128  | [1145128][p-7]  | 1,48       |
-| 8   | Partai Keadilan Sejahtera             | 5.781.199  | [5781199][p-8]  | 7,50       |
-| 9   | Partai Kebangkitan Nusantara          | 160.848    | [160848][p-9]   | 0,21       |
-| 10  | Partai Hati Nurani Rakyat             | 562.277    | [562277][p-10]  | 0,73       |
-| 11  | Partai Garda Republik Indonesia       | 222.565    | [222565][p-11]  | 0,29       |
-| 12  | Partai Amanat Nasional                | 5.361.221  | [5361221][p-12] | 6,95       |
-| 13  | Partai Bulan Bintang                  | 255.171    | [255171][p-13]  | 0,33       |
-| 14  | Partai Demokrat                       | 5.719.341  | [5719341][p-14] | 7,42       |
-| 15  | Partai Solidaritas Indonesia          | 2.406.729  | [2406729][p-15] | 3,12       |
-| 16  | PARTAI PERINDO                        | 968.134    | [968134][p-16]  | 1,26       |
-| 17  | Partai Persatuan Pembangunan          | 3.092.522  | [3092522][p-17] | 4,01       |
-| 24  | Partai Ummat                          | 323.419    | [323419][p-24]  | 0,42       |
+| 1   | Partai Kebangkitan Bangsa             | 8.888.084  | [8888084][p-1]  | 11,52      |
+| 2   | Partai Gerakan Indonesia Raya         | 10.260.824 | [10260824][p-2] | 13,30      |
+| 3   | Partai Demokrasi Indonesia Perjuangan | 12.634.836 | [12634836][p-3] | 16,38      |
+| 4   | Partai Golongan Karya                 | 11.607.359 | [11607359][p-4] | 15,05      |
+| 5   | Partai NasDem                         | 7.277.886  | [7277886][p-5]  | 9,44       |
+| 6   | Partai Buruh                          | 451.746    | [451746][p-6]   | 0,59       |
+| 7   | Partai Gelombang Rakyat Indonesia     | 1.145.214  | [1145214][p-7]  | 1,48       |
+| 8   | Partai Keadilan Sejahtera             | 5.781.439  | [5781439][p-8]  | 7,50       |
+| 9   | Partai Kebangkitan Nusantara          | 160.853    | [160853][p-9]   | 0,21       |
+| 10  | Partai Hati Nurani Rakyat             | 562.297    | [562297][p-10]  | 0,73       |
+| 11  | Partai Garda Republik Indonesia       | 222.579    | [222579][p-11]  | 0,29       |
+| 12  | Partai Amanat Nasional                | 5.361.527  | [5361527][p-12] | 6,95       |
+| 13  | Partai Bulan Bintang                  | 255.178    | [255178][p-13]  | 0,33       |
+| 14  | Partai Demokrat                       | 5.719.517  | [5719517][p-14] | 7,42       |
+| 15  | Partai Solidaritas Indonesia          | 2.406.783  | [2406783][p-15] | 3,12       |
+| 16  | PARTAI PERINDO                        | 968.189    | [968189][p-16]  | 1,26       |
+| 17  | Partai Persatuan Pembangunan          | 3.092.812  | [3092812][p-17] | 4,01       |
+| 24  | Partai Ummat                          | 323.429    | [323429][p-24]  | 0,42       |
 
 
 [p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pileg-dpr/hitung-suara/sub/partai-1.txt
@@ -138,10 +138,10 @@ xychart-beta
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-15 14:37:15 |
-| Progress       | 544.278/823.378     |
-| Progress (%)   | 66,10               |
-| Progress (raw) | 544278              |
+| Time Stamp     | 2024-03-15 15:37:13 |
+| Progress       | 544.408/823.378     |
+| Progress (%)   | 66,12               |
+| Progress (raw) | 544408              |
 
 
 ## Tabel Detail per Wilayah
