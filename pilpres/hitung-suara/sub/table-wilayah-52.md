@@ -8,25 +8,25 @@ Wilayah **NUSA TENGGARA BARAT**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 1797964
-    bar [701579, 1797964, 208471]
+    y-axis "Suara" 0 --> 1797766
+    bar [701531, 1797766, 208452]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 701579
-    "02" : 1797964
-    "03" : 208471
+    "01" : 701531
+    "02" : 1797766
+    "03" : 208452
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara     | Suara (raw) | Persentase |
 |:--- |:-------------- | ---------:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 701.579   | 701579      | 25,91      |
-| 2   | PRABOWO GIBRAN | 1.797.964 | 1797964     | 66,39      |
-| 3   | GANJAR MAHFUD  | 208.471   | 208471      | 7,70       |
+| 1   | ANIES MUHAIMIN | 701.531   | 701531      | 25,91      |
+| 2   | PRABOWO GIBRAN | 1.797.766 | 1797766     | 66,39      |
+| 3   | GANJAR MAHFUD  | 208.452   | 208452      | 7,70       |
 
 
 ## Metadata
