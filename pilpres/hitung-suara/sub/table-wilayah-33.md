@@ -8,25 +8,25 @@ Wilayah **JAWA TENGAH**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 10820597
-    bar [2587099, 10820597, 6994310]
+    y-axis "Suara" 0 --> 10820490
+    bar [2587088, 10820490, 6994217]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 2587099
-    "02" : 10820597
-    "03" : 6994310
+    "01" : 2587088
+    "02" : 10820490
+    "03" : 6994217
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara      | Suara (raw) | Persentase |
 |:--- |:-------------- | ----------:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 2.587.099  | 2587099     | 12,68      |
-| 2   | PRABOWO GIBRAN | 10.820.597 | 10820597    | 53,04      |
-| 3   | GANJAR MAHFUD  | 6.994.310  | 6994310     | 34,28      |
+| 1   | ANIES MUHAIMIN | 2.587.088  | 2587088     | 12,68      |
+| 2   | PRABOWO GIBRAN | 10.820.490 | 10820490    | 53,04      |
+| 3   | GANJAR MAHFUD  | 6.994.217  | 6994217     | 34,28      |
 
 
 ## Metadata
