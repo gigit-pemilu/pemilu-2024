@@ -8,25 +8,25 @@ Wilayah **JAWA TENGAH**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 10820849
-    bar [2587144, 10820849, 6994322]
+    y-axis "Suara" 0 --> 10820641
+    bar [2587110, 10820641, 6994300]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 2587144
-    "02" : 10820849
-    "03" : 6994322
+    "01" : 2587110
+    "02" : 10820641
+    "03" : 6994300
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara      | Suara (raw) | Persentase |
 |:--- |:-------------- | ----------:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 2.587.144  | 2587144     | 12,68      |
-| 2   | PRABOWO GIBRAN | 10.820.849 | 10820849    | 53,04      |
-| 3   | GANJAR MAHFUD  | 6.994.322  | 6994322     | 34,28      |
+| 1   | ANIES MUHAIMIN | 2.587.110  | 2587110     | 12,68      |
+| 2   | PRABOWO GIBRAN | 10.820.641 | 10820641    | 53,04      |
+| 3   | GANJAR MAHFUD  | 6.994.300  | 6994300     | 34,28      |
 
 
 ## Metadata
@@ -34,7 +34,7 @@ pie showData
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 89,42   |
+| Persentase      | 89,43   |
 | Status Progress | On      |
 
 
