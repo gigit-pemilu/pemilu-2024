@@ -86,15 +86,15 @@
 xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 75370913
-    bar [31393274, 75370913, 21373759]
+    y-axis "Suara" 0 --> 75371169
+    bar [31393361, 75371169, 21373759]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "1" : 31393274
-    "2" : 75370913
+    "1" : 31393361
+    "2" : 75371169
     "3" : 21373759
 ```
 
@@ -102,8 +102,8 @@ pie showData
 
 | No. | Nama Paslon    | Suara      | Suara (raw)     | Persentase |
 |:--- |:-------------- | ----------:| ---------------:| ----------:|
-| 1   | ANIES MUHAIMIN | 31.393.274 | [31393274][p-1] | 24,50      |
-| 2   | PRABOWO GIBRAN | 75.370.913 | [75370913][p-2] | 58,82      |
+| 1   | ANIES MUHAIMIN | 31.393.361 | [31393361][p-1] | 24,50      |
+| 2   | PRABOWO GIBRAN | 75.371.169 | [75371169][p-2] | 58,82      |
 | 3   | GANJAR MAHFUD  | 21.373.759 | [21373759][p-3] | 16,68      |
 
 
@@ -116,10 +116,10 @@ pie showData
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-17 01:30:16 |
-| Progress       | 646.043/823.378     |
+| Time Stamp     | 2024-03-17 02:30:15 |
+| Progress       | 646.060/823.378     |
 | Progress (%)   | 78,46               |
-| Progress (raw) | 646043              |
+| Progress (raw) | 646060              |
 
 
 ## Tabel Detail per Wilayah
