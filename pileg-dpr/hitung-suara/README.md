@@ -86,31 +86,31 @@
 xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara" 0 --> 12641172
-    bar [8897278, 10266294, 12641172, 11616692, 7280406, 451937, 1145567, 5783464, 160908, 562896, 222746, 5366614, 255301, 5721678, 2407583, 968827, 3094678, 323609]
+    y-axis "Suara" 0 --> 12641183
+    bar [8897299, 10266332, 12641183, 11616729, 7280415, 451937, 1145568, 5783468, 160908, 562933, 222746, 5366617, 255303, 5721683, 2407587, 968827, 3094679, 323609]
 ```
 
 ## Tabel
 
 | No. | Nama Partai                           | Suara      | Suara (raw)     | Persentase |
 |:--- |:------------------------------------- | ----------:| ---------------:| ----------:|
-| 1   | Partai Kebangkitan Bangsa             | 8.897.278  | [8897278][p-1]  | 11,53      |
-| 2   | Partai Gerakan Indonesia Raya         | 10.266.294 | [10266294][p-2] | 13,30      |
-| 3   | Partai Demokrasi Indonesia Perjuangan | 12.641.172 | [12641172][p-3] | 16,38      |
-| 4   | Partai Golongan Karya                 | 11.616.692 | [11616692][p-4] | 15,05      |
-| 5   | Partai NasDem                         | 7.280.406  | [7280406][p-5]  | 9,43       |
+| 1   | Partai Kebangkitan Bangsa             | 8.897.299  | [8897299][p-1]  | 11,53      |
+| 2   | Partai Gerakan Indonesia Raya         | 10.266.332 | [10266332][p-2] | 13,30      |
+| 3   | Partai Demokrasi Indonesia Perjuangan | 12.641.183 | [12641183][p-3] | 16,38      |
+| 4   | Partai Golongan Karya                 | 11.616.729 | [11616729][p-4] | 15,05      |
+| 5   | Partai NasDem                         | 7.280.415  | [7280415][p-5]  | 9,43       |
 | 6   | Partai Buruh                          | 451.937    | [451937][p-6]   | 0,59       |
-| 7   | Partai Gelombang Rakyat Indonesia     | 1.145.567  | [1145567][p-7]  | 1,48       |
-| 8   | Partai Keadilan Sejahtera             | 5.783.464  | [5783464][p-8]  | 7,49       |
+| 7   | Partai Gelombang Rakyat Indonesia     | 1.145.568  | [1145568][p-7]  | 1,48       |
+| 8   | Partai Keadilan Sejahtera             | 5.783.468  | [5783468][p-8]  | 7,49       |
 | 9   | Partai Kebangkitan Nusantara          | 160.908    | [160908][p-9]   | 0,21       |
-| 10  | Partai Hati Nurani Rakyat             | 562.896    | [562896][p-10]  | 0,73       |
+| 10  | Partai Hati Nurani Rakyat             | 562.933    | [562933][p-10]  | 0,73       |
 | 11  | Partai Garda Republik Indonesia       | 222.746    | [222746][p-11]  | 0,29       |
-| 12  | Partai Amanat Nasional                | 5.366.614  | [5366614][p-12] | 6,95       |
-| 13  | Partai Bulan Bintang                  | 255.301    | [255301][p-13]  | 0,33       |
-| 14  | Partai Demokrat                       | 5.721.678  | [5721678][p-14] | 7,41       |
-| 15  | Partai Solidaritas Indonesia          | 2.407.583  | [2407583][p-15] | 3,12       |
+| 12  | Partai Amanat Nasional                | 5.366.617  | [5366617][p-12] | 6,95       |
+| 13  | Partai Bulan Bintang                  | 255.303    | [255303][p-13]  | 0,33       |
+| 14  | Partai Demokrat                       | 5.721.683  | [5721683][p-14] | 7,41       |
+| 15  | Partai Solidaritas Indonesia          | 2.407.587  | [2407587][p-15] | 3,12       |
 | 16  | PARTAI PERINDO                        | 968.827    | [968827][p-16]  | 1,26       |
-| 17  | Partai Persatuan Pembangunan          | 3.094.678  | [3094678][p-17] | 4,01       |
+| 17  | Partai Persatuan Pembangunan          | 3.094.679  | [3094679][p-17] | 4,01       |
 | 24  | Partai Ummat                          | 323.609    | [323609][p-24]  | 0,42       |
 
 
@@ -138,10 +138,10 @@ xychart-beta
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-17 03:37:16 |
-| Progress       | 545.196/823.378     |
+| Time Stamp     | 2024-03-17 04:37:14 |
+| Progress       | 545.199/823.378     |
 | Progress (%)   | 66,21               |
-| Progress (raw) | 545196              |
+| Progress (raw) | 545199              |
 
 
 ## Tabel Detail per Wilayah
