@@ -41,7 +41,7 @@ xychart-beta
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 84,93   |
+| Persentase      | 84,94   |
 | Status Progress | On      |
 
 
