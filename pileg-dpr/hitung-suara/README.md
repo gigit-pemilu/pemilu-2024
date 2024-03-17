@@ -86,31 +86,31 @@
 xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara" 0 --> 12645184
-    bar [8901785, 10269806, 12645184, 11621470, 7281797, 452013, 1146019, 5784793, 160955, 563143, 222800, 5368087, 255385, 5722821, 2407978, 969100, 3095268, 323684]
+    y-axis "Suara" 0 --> 12645262
+    bar [8901924, 10269837, 12645262, 11621579, 7281800, 452013, 1146023, 5784820, 160956, 563143, 222802, 5368114, 255385, 5722825, 2407982, 969101, 3095272, 323684]
 ```
 
 ## Tabel
 
 | No. | Nama Partai                           | Suara      | Suara (raw)     | Persentase |
 |:--- |:------------------------------------- | ----------:| ---------------:| ----------:|
-| 1   | Partai Kebangkitan Bangsa             | 8.901.785  | [8901785][p-1]  | 11,53      |
-| 2   | Partai Gerakan Indonesia Raya         | 10.269.806 | [10269806][p-2] | 13,30      |
-| 3   | Partai Demokrasi Indonesia Perjuangan | 12.645.184 | [12645184][p-3] | 16,38      |
-| 4   | Partai Golongan Karya                 | 11.621.470 | [11621470][p-4] | 15,06      |
-| 5   | Partai NasDem                         | 7.281.797  | [7281797][p-5]  | 9,43       |
+| 1   | Partai Kebangkitan Bangsa             | 8.901.924  | [8901924][p-1]  | 11,53      |
+| 2   | Partai Gerakan Indonesia Raya         | 10.269.837 | [10269837][p-2] | 13,30      |
+| 3   | Partai Demokrasi Indonesia Perjuangan | 12.645.262 | [12645262][p-3] | 16,38      |
+| 4   | Partai Golongan Karya                 | 11.621.579 | [11621579][p-4] | 15,06      |
+| 5   | Partai NasDem                         | 7.281.800  | [7281800][p-5]  | 9,43       |
 | 6   | Partai Buruh                          | 452.013    | [452013][p-6]   | 0,59       |
-| 7   | Partai Gelombang Rakyat Indonesia     | 1.146.019  | [1146019][p-7]  | 1,48       |
-| 8   | Partai Keadilan Sejahtera             | 5.784.793  | [5784793][p-8]  | 7,49       |
-| 9   | Partai Kebangkitan Nusantara          | 160.955    | [160955][p-9]   | 0,21       |
+| 7   | Partai Gelombang Rakyat Indonesia     | 1.146.023  | [1146023][p-7]  | 1,48       |
+| 8   | Partai Keadilan Sejahtera             | 5.784.820  | [5784820][p-8]  | 7,49       |
+| 9   | Partai Kebangkitan Nusantara          | 160.956    | [160956][p-9]   | 0,21       |
 | 10  | Partai Hati Nurani Rakyat             | 563.143    | [563143][p-10]  | 0,73       |
-| 11  | Partai Garda Republik Indonesia       | 222.800    | [222800][p-11]  | 0,29       |
-| 12  | Partai Amanat Nasional                | 5.368.087  | [5368087][p-12] | 6,95       |
+| 11  | Partai Garda Republik Indonesia       | 222.802    | [222802][p-11]  | 0,29       |
+| 12  | Partai Amanat Nasional                | 5.368.114  | [5368114][p-12] | 6,95       |
 | 13  | Partai Bulan Bintang                  | 255.385    | [255385][p-13]  | 0,33       |
-| 14  | Partai Demokrat                       | 5.722.821  | [5722821][p-14] | 7,41       |
-| 15  | Partai Solidaritas Indonesia          | 2.407.978  | [2407978][p-15] | 3,12       |
-| 16  | PARTAI PERINDO                        | 969.100    | [969100][p-16]  | 1,26       |
-| 17  | Partai Persatuan Pembangunan          | 3.095.268  | [3095268][p-17] | 4,01       |
+| 14  | Partai Demokrat                       | 5.722.825  | [5722825][p-14] | 7,41       |
+| 15  | Partai Solidaritas Indonesia          | 2.407.982  | [2407982][p-15] | 3,12       |
+| 16  | PARTAI PERINDO                        | 969.101    | [969101][p-16]  | 1,26       |
+| 17  | Partai Persatuan Pembangunan          | 3.095.272  | [3095272][p-17] | 4,01       |
 | 24  | Partai Ummat                          | 323.684    | [323684][p-24]  | 0,42       |
 
 
@@ -138,10 +138,10 @@ xychart-beta
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-18 03:07:14 |
-| Progress       | 545.698/823.378     |
+| Time Stamp     | 2024-03-18 05:37:14 |
+| Progress       | 545.699/823.378     |
 | Progress (%)   | 66,28               |
-| Progress (raw) | 545698              |
+| Progress (raw) | 545699              |
 
 
 ## Tabel Detail per Wilayah
