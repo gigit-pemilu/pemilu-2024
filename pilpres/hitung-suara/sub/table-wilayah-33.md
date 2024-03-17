@@ -34,7 +34,7 @@ pie showData
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 89,51   |
+| Persentase      | 89,52   |
 | Status Progress | On      |
 
 
