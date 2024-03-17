@@ -8,19 +8,19 @@ Wilayah **JAMBI**
 xychart-beta
     title "Perolehan Suara"
     x-axis [PKB, GER, PDIP, GOL, NAS, BUR, GEL, PKS, PKN, HAN, GAR, PAN, PBB, DEM, PSI, PER, PPP, UMM]
-    y-axis "Suara" 0 --> 199763
-    bar [127087, 138731, 185354, 199763, 103301, 6972, 34557, 58964, 3332, 7829, 4243, 102550, 3428, 117378, 37807, 16329, 37871, 5142]
+    y-axis "Suara" 0 --> 199800
+    bar [127094, 138766, 185385, 199800, 103309, 6972, 34557, 58964, 3332, 7829, 4243, 102550, 3428, 117378, 37807, 16329, 37871, 5142]
 ```
 
 ## Tabel
 
 | No. | Nama Partai                           | Suara   | Suara (raw) | Persentase |
 |:--- |:------------------------------------- | -------:| -----------:| ----------:|
-| 1   | Partai Kebangkitan Bangsa             | 127.087 | 127087      | 10,67      |
-| 2   | Partai Gerakan Indonesia Raya         | 138.731 | 138731      | 11,65      |
-| 3   | Partai Demokrasi Indonesia Perjuangan | 185.354 | 185354      | 15,57      |
-| 4   | Partai Golongan Karya                 | 199.763 | 199763      | 16,78      |
-| 5   | Partai NasDem                         | 103.301 | 103301      | 8,68       |
+| 1   | Partai Kebangkitan Bangsa             | 127.094 | 127094      | 10,67      |
+| 2   | Partai Gerakan Indonesia Raya         | 138.766 | 138766      | 11,65      |
+| 3   | Partai Demokrasi Indonesia Perjuangan | 185.385 | 185385      | 15,57      |
+| 4   | Partai Golongan Karya                 | 199.800 | 199800      | 16,78      |
+| 5   | Partai NasDem                         | 103.309 | 103309      | 8,68       |
 | 6   | Partai Buruh                          | 6.972   | 6972        | 0,59       |
 | 7   | Partai Gelombang Rakyat Indonesia     | 34.557  | 34557       | 2,90       |
 | 8   | Partai Keadilan Sejahtera             | 58.964  | 58964       | 4,95       |
@@ -41,7 +41,7 @@ xychart-beta
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 71,80   |
+| Persentase      | 71,81   |
 | Status Progress | On      |
 
 
