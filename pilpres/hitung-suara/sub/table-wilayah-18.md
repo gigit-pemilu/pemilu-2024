@@ -8,25 +8,25 @@ Wilayah **LAMPUNG**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 3244551
-    bar [728981, 3244551, 705538]
+    y-axis "Suara" 0 --> 3244389
+    bar [728979, 3244389, 705525]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 728981
-    "02" : 3244551
-    "03" : 705538
+    "01" : 728979
+    "02" : 3244389
+    "03" : 705525
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara     | Suara (raw) | Persentase |
 |:--- |:-------------- | ---------:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 728.981   | 728981      | 15,58      |
-| 2   | PRABOWO GIBRAN | 3.244.551 | 3244551     | 69,34      |
-| 3   | GANJAR MAHFUD  | 705.538   | 705538      | 15,08      |
+| 1   | ANIES MUHAIMIN | 728.979   | 728979      | 15,58      |
+| 2   | PRABOWO GIBRAN | 3.244.389 | 3244389     | 69,34      |
+| 3   | GANJAR MAHFUD  | 705.525   | 705525      | 15,08      |
 
 
 ## Metadata
@@ -34,7 +34,7 @@ pie showData
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 93,74   |
+| Persentase      | 93,75   |
 | Status Progress | On      |
 
 
