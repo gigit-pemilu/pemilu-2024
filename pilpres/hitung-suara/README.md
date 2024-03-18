@@ -86,25 +86,25 @@
 xychart-beta
     title "Perolehan Suara Nasional"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 75365417
-    bar [31392846, 75365417, 21373112]
+    y-axis "Suara" 0 --> 75365032
+    bar [31392771, 75365032, 21373070]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "1" : 31392846
-    "2" : 75365417
-    "3" : 21373112
+    "1" : 31392771
+    "2" : 75365032
+    "3" : 21373070
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara      | Suara (raw)     | Persentase |
 |:--- |:-------------- | ----------:| ---------------:| ----------:|
-| 1   | ANIES MUHAIMIN | 31.392.846 | [31392846][p-1] | 24,50      |
-| 2   | PRABOWO GIBRAN | 75.365.417 | [75365417][p-2] | 58,82      |
-| 3   | GANJAR MAHFUD  | 21.373.112 | [21373112][p-3] | 16,68      |
+| 1   | ANIES MUHAIMIN | 31.392.771 | [31392771][p-1] | 24,50      |
+| 2   | PRABOWO GIBRAN | 75.365.032 | [75365032][p-2] | 58,82      |
+| 3   | GANJAR MAHFUD  | 21.373.070 | [21373070][p-3] | 16,68      |
 
 
 [p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/paslon-1.txt
@@ -116,10 +116,10 @@ pie showData
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-18 16:30:15 |
-| Progress       | 647.292/823.378     |
-| Progress (%)   | 78,61               |
-| Progress (raw) | 647292              |
+| Time Stamp     | 2024-03-18 17:30:15 |
+| Progress       | 647.315/823.378     |
+| Progress (%)   | 78,62               |
+| Progress (raw) | 647315              |
 
 
 ## Tabel Detail per Wilayah
