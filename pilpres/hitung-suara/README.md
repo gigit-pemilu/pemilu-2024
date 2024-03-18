@@ -116,10 +116,10 @@ pie showData
 
 | Key            | Value               |
 | -------------- | ------------------- |
-| Time Stamp     | 2024-03-18 21:30:15 |
-| Progress       | 647.425/823.378     |
+| Time Stamp     | 2024-03-18 22:30:16 |
+| Progress       | 647.451/823.378     |
 | Progress (%)   | 78,63               |
-| Progress (raw) | 647425              |
+| Progress (raw) | 647451              |
 
 
 ## Tabel Detail per Wilayah
