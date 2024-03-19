@@ -8,25 +8,25 @@ Wilayah **KALIMANTAN TENGAH**
 xychart-beta
     title "Perolehan Suara"
     x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 857786
-    bar [204414, 857786, 127371]
+    y-axis "Suara" 0 --> 858076
+    bar [204419, 858076, 127409]
 ```
 
 ```mermaid
 %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    "01" : 204414
-    "02" : 857786
-    "03" : 127371
+    "01" : 204419
+    "02" : 858076
+    "03" : 127409
 ```
 
 ## Tabel
 
 | No. | Nama Paslon    | Suara   | Suara (raw) | Persentase |
 |:--- |:-------------- | -------:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 204.414 | 204414      | 17,18      |
-| 2   | PRABOWO GIBRAN | 857.786 | 857786      | 72,11      |
-| 3   | GANJAR MAHFUD  | 127.371 | 127371      | 10,71      |
+| 1   | ANIES MUHAIMIN | 204.419 | 204419      | 17,18      |
+| 2   | PRABOWO GIBRAN | 858.076 | 858076      | 72,11      |
+| 3   | GANJAR MAHFUD  | 127.409 | 127409      | 10,71      |
 
 
 ## Metadata
@@ -34,7 +34,7 @@ pie showData
 | Key             | Value   |
 | --------------- | ------- |
 | Tipe Pemilu     | Reguler |
-| Persentase      | 83,77   |
+| Persentase      | 83,84   |
 | Status Progress | On      |
 
 
